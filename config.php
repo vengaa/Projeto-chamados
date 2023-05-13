@@ -1,9 +1,9 @@
 <?php
 
-$host = 'sql201.epizy.com';
-$user = 'epiz_33998658';
-$pass = '3fT90Mgurxd';
-$dbname = 'epiz_33998658_venga';
+$host = 'localhost';
+$user = 'root';
+$pass = 'pass';
+$dbname = 'vengadb';
 
 $conexao = new mysqli($host,$user,$pass,$dbname);
 
