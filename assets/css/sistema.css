@@ -1,0 +1,23 @@
+body{
+    background-color: #1B1F27!important;
+    color: white!important;
+    text-align: center;
+    text-decoration: none!important;
+}
+
+.table-bg{
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 15px 15px 0 0;
+}
+
+.box-search{
+    display: flex;
+    justify-content: center;
+    gap: .1%;
+}
+
+.table-gb {
+    background-color: rgba(24, 25, 32,0.8);
+    font-size: 13px;
+    border-radius: 15px 15px 0 0;
+}
